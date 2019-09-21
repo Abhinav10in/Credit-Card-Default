@@ -1,0 +1,2 @@
+1. The two pictures are of GBM which describes the importance of the feature in the producing the gradient booasted decision tree
+2. the next image is regarding the random forest here there is plot of feature importance we see that feature Pay_1 is most important and so on
